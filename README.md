@@ -11,7 +11,14 @@
 <br>
  <br>    
  Desktop
-                                                                                                                 <br>
-                                                                                                                 <br>
+ <br>
+   <br>
                                                                                                                  
-<img src="https://github.com/kaiquecaldas/Easy-Shopping/blob/master/img/Desktop.PNG?raw=true" />
+<img src="https://github.com/kaiquecaldas/Easy-Shopping/blob/master/img/Desktop.PNG?raw=true" width="50%"/>                                    
+<br>
+Mobile
+  <br>
+  <br>
+<img src="https://github.com/kaiquecaldas/Easy-Shopping/blob/master/img/Mobile.PNG?raw=true"/>                                                                                           
+																																														
+                                                                                             
